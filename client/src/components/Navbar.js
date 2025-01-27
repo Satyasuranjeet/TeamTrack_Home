@@ -6,7 +6,7 @@ const navigation = [
   { name: 'Home', href: '/' },
   { name: 'Features', href: '/features' },
   { name: 'Contact', href: '/contact' },
-  { name: ' ', href: '/teampage' },
+  { name: 'Team', href: '/teampage' },
 ]
 
 export default function PrimaryNavbar() {
